@@ -1,0 +1,1 @@
+Game Dev project to learn Unity. The game is meant to be a 2d game similar to the popular mobile game angry birds.
